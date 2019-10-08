@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://michaelwang.online/</id>
+    <id>https://michaelwang.top/newblog/</id>
     <title>MW</title>
-    <updated>2019-10-08T08:20:34.458Z</updated>
+    <updated>2019-10-08T08:21:42.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://michaelwang.online/"/>
-    <link rel="self" href="https://michaelwang.online//atom.xml"/>
+    <link rel="alternate" href="https://michaelwang.top/newblog/"/>
+    <link rel="self" href="https://michaelwang.top/newblog//atom.xml"/>
     <subtitle>Never stop learning</subtitle>
-    <logo>https://michaelwang.online//images/avatar.png</logo>
-    <icon>https://michaelwang.online//favicon.ico</icon>
+    <logo>https://michaelwang.top/newblog//images/avatar.png</logo>
+    <icon>https://michaelwang.top/newblog//favicon.ico</icon>
     <rights>All rights reserved 2019, MW</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://michaelwang.online//post/hello-gridea</id>
-        <link href="https://michaelwang.online//post/hello-gridea">
+        <id>https://michaelwang.top/newblog//post/hello-gridea</id>
+        <link href="https://michaelwang.top/newblog//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
